@@ -328,3 +328,7 @@ footer .social-networks {
 footer .social-networks > div {
   margin-left: 20px;
 }
+
+hr {
+ border-color: grey;
+}
